@@ -1,0 +1,22 @@
+INSERT into blogful_articles (title, date_published, content)
+VALUES 
+('How to make kimchi', now() - '21 days'::INTERVAL, 'This is the article about making kimchi content content content.....'),
+('How to make pancakes', now() - '17 days'::INTERVAL, 'This is the article about making pancakes content content content.....'),
+('How to write a story', now() - '32 days'::INTERVAL, 'This is the article about writing content content content.....'),
+('How to breakdance', now() - '100 days'::INTERVAL, 'This is the article about breakdancing content content content.....'),
+('How to compose a song', now() - '45 days'::INTERVAL, 'This is the article about composing content content content.....'),
+('How to jumprope without falling', now() - '51 days'::INTERVAL, 'This is the article about jumproping content content content.....'),
+('How to light a fire', now() - '73 days'::INTERVAL, 'This is the article about lighting a fire content content content.....'),
+('How to wrestle a bear', now() - '98 days'::INTERVAL, 'This is the article about  content content content.....'),
+('How to build an airplane', now() - '25 days'::INTERVAL, 'This is the article about content content content.....'),
+('How to play chess', now() - '75 days'::INTERVAL, 'This is the article about  content content content.....'),
+('How to sail without a boat', now() - '89 days'::INTERVAL, 'This is the article about  content content content.....'),
+('How to make the best smoothie', now() - '5 days'::INTERVAL, 'This is the article about  content content content.....'),
+('How to make crispy waffles', now() - '6 days'::INTERVAL, 'This is the article about content content content.....'),
+('How to learn korean quickly', now() - '8 days'::INTERVAL, 'This is the article about content content content.....'),
+('How to sing in a foreign language well', now() - '304 days'::INTERVAL, 'This is the article about content content content.....'),
+('How to fly to the moon', now() - '294 days'::INTERVAL, 'This is the article about content content content.....'),
+('How to transform into a werewolf', now() - '26 days'::INTERVAL, 'This is the article about content content content.....'),
+('How to be famous', now() - '14 days'::INTERVAL, 'This is the article about content content content.....'),
+('How to meet your soulmate', now() - '19 days'::INTERVAL, 'This is the article about content content content.....'),
+('How to win at life', now() - '29 days'::INTERVAL, 'This is the article about content content content.....')
